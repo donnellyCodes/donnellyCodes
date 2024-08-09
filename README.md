@@ -1,6 +1,8 @@
-# Hi there i'm Donnelly Amaitsa👋
-I am a passionate Software Engineer looking forward to build robust and scalable softwares that would solve real world problems. I love being part of being the tech community and being surrounded by like minded people who also strive to make the world a better place using technology.
-
+# Hi! I'm Donnelly Amaitsa👋
+Welcome to my GitHub profile! I'm passionate about technology, coding and continuos learning.
+Here is a little about me.
+## About Me
+My interests are in Web Development, and Software Development 
 - 🔭 I’m currently working on Python, JavaScript and C#
 - 🌱 I’m currently learning Software Engineering and DevOps at ALX in my journey to become a full stack software engineer
 - 👯 I’m looking to collaborate on real world software projects with other software engineers
@@ -10,6 +12,8 @@ I am a passionate Software Engineer looking forward to build robust and scalable
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm also into Game Development😆
 
+## Connect With Me
+- https://www.linkedin.com/in/donnelly-amaitsa-442067279/
 ## Languages and Tools
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
