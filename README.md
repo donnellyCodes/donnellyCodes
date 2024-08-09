@@ -8,7 +8,7 @@ I am a passionate Software Engineer looking forward to build robust and scalable
 - 💬 Ask me about anything concerning programming and algorithms and I will answer
 - 📫 How to reach me: donamaitsa@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm also into Game Development
+- ⚡ Fun fact: I'm also into Game Development😆
 
 ## Languages and Tools
 <div>
