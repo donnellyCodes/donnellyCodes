@@ -10,7 +10,7 @@ My interests are in Web Development, and Software Development
 - 💬 Ask me about anything concerning programming and algorithms and I will answer
 - 📫 How to reach me: donamaitsa@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm also into Game Development😆
+- ⚡ Fun fact: Spiders are the only web developers in the world that enjoy finding bugs😆
 
 ## Connect With Me
 - https://www.linkedin.com/in/donnelly-amaitsa-442067279/
