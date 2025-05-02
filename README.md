@@ -4,7 +4,7 @@ Here is a little about me.
 ## About Me
 My interests are in Web Development, and Software Development 
 - 🔭 I’m currently working on Python, JavaScript and C#
-- 🌱 I’m currently learning Software Engineering and DevOps at ALX in my journey to become a full stack software engineer
+- 🌱 I’m currently Full Stack Software Engineer
 - 👯 I’m looking to collaborate on real world software projects with other software engineers
 - 🤔 I’m looking for help with Python with Flask Web Application framework
 - 💬 Ask me about anything concerning programming and algorithms and I will answer
