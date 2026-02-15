@@ -31,5 +31,6 @@ My interests are in Web Development, and Software Development
 </div>
 
 ## Stats Summary
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donnellyCodes)](https://github.com/anuraghazra/github-readme-stats)
 <img alt="my stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=donnellyCodes&show_icons=true&theme=radical"/>
 <img alt="top langs" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donnellyCodes&layout=compact&theme=radical"/>
