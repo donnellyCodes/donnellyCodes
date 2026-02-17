@@ -1,7 +1,7 @@
 # Hi! I'm Donnelly Amaitsa👋
 Welcome to my GitHub profile! I'm passionate about technology, coding and continuos learning.
 Here is a little about me.
-## About Me
+
 # 💫 About Me:
 My interests are in Software Development<br><br>🔭 I’m currently working on Python and JavaScript<br>🌱 Full Stack Software Engineer<br>👯 I’m looking to collaborate on real world software projects with other software engineers<br>🤔 I’m looking for help with improving repository contributions<br>💬 Ask me about anything concerning programming and algorithms and I will answer<br>📫 How to reach me: donamaitsa@gmail.com<br>😄 Pronouns: she/her<br>⚡ Fun fact: Spiders are the only web developers in the world that enjoy finding bugs😆
 
