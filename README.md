@@ -69,7 +69,7 @@
 
 <div align="center">
 
- ![Donnelly's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=donnellyCodes&cc=141321&tc=fff&ic=fff&bc=141321)
+ ![Donnelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=donnellyCodes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
  
 ![GitHub Streak](https://streak-stats.demolab.com?user=donnellyCodes&theme=radical&hide_border=true)
  
