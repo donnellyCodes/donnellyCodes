@@ -1,51 +1,131 @@
-# Hi! I'm Donnelly Amaitsa👋
-Welcome to my GitHub profile! I'm passionate about technology, coding and continuos learning.
-Here is a little about me.
+<div align="center">
 
-# 💫 About Me:
-My interests are in Software Development<br><br>🔭 I’m currently working on Python and JavaScript<br>🌱 Full Stack Software Engineer<br>👯 I’m looking to collaborate on real world software projects with other software engineers<br>🤔 I’m looking for help with improving repository contributions<br>💬 Ask me about anything concerning programming and algorithms and I will answer<br>📫 How to reach me: donamaitsa@gmail.com<br>😄 Pronouns: she/her<br>⚡ Fun fact: Spiders are the only web developers in the world that enjoy finding bugs😆
+# Hi there, I'm Donnelly Amaitsa! 👋
 
+### Full Stack Software Engineer · Kenya, Nairobi 🇰🇪
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/donnelly-amaitsa-442067279/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:donamaitsa@gmail.com, amaitsadonnelly@gmail.com) 
+*Passionate about technology, coding, and continuous learning.*
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=donnellyCodes&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=donnellyCodes&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=donnellyCodes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donnelly-amaitsa-442067279/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:donamaitsa@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/donnellyCodes?label=Followers&style=social)](https://github.com/donnellyCodes)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=donnellyCodes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=donnellyCodes&limit=5&theme=darcula&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=donnellyCodes&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🔭 Currently working with **Python** and **JavaScript**
+- 🌱 Building skills as a **Full Stack Software Engineer**
+- 👯 Looking to collaborate on **real-world software projects** with other engineers
+- 🤔 Focused on improving repository contributions and open source involvement
+- 💬 Ask me about **programming, algorithms, and software development**
+- 📫 Reach me at: **donamaitsa@gmail.com**
+- 😄 Pronouns: **she/her**
+- ⚡ Fun fact: *Spiders are the only web developers in the world that enjoy finding bugs 😆*
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+
+### Tools & Platforms
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Donnelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=donnellyCodes&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=donnellyCodes&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donnellyCodes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ### 📈 Contribution Highlights
 
 | Metric | Value |
 |---|---|
-| ⭐ Total Stars Earned | 13 |
-| 💻 Total Commits (2026) | 1094 |
-| 🔀 Total Pull Requests | 2 |
-| 🐛 Total Issues | 1 |
-| 📅 Total Contributions (May 2, 2023 – Present) | 69 |
-| 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
+| ⭐ Total Stars Earned | 3.4k |
+| 💻 Total Commits (2026) | 20 |
+| 🔀 Total Pull Requests | 111 |
+| 🐛 Total Issues | 51 |
+| 📅 Total Contributions (Oct 2020 – Present) | 6,337 |
+| 🔥 Longest Streak | 241 days (Sep 5, 2022 – May 3, 2023) |
 
-<!-- STATS_UPDATED: 2026-05-09T11:29:28.951Z -->
+---
 
----|---|
-| ⭐ Total Stars Earned | 13 |
-| 💻 Total Commits (2026) | 1094 |
-| 🔀 Total Pull Requests | 2 |
-| 🐛 Total Issues | 1 |
-| 📅 Total Contributions (May 2, 2023 – Present) | 69 |
-| 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
+## 🏆 GitHub Trophies
 
-<!-- STATS_UPDATED: 2026-05-09T11:29:10.590Z -->
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=donnellyCodes&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+
+[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=donnellyCodes&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/donnellyCodes)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donnelly-amaitsa-442067279/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donamaitsa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/donnellyCodes)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=donnellyCodes&icon=9&color=0)](https://visitcount.itsvg.in)
+
+*"The best way to predict the future is to code it."*
+
+</div>
