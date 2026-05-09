@@ -88,26 +88,6 @@
 | 📅 Total Contributions (May 2, 2023 – Present) | 70 |
 | 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
 
-<!-- STATS_UPDATED: 2026-05-09T11:31:58.608Z -->
-
----|---|
-| ⭐ Total Stars Earned | 13 |
-| 💻 Total Commits (2026) | 1094 |
-| 🔀 Total Pull Requests | 2 |
-| 🐛 Total Issues | 1 |
-| 📅 Total Contributions (May 2, 2023 – Present) | 69 |
-| 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
-
-<!-- STATS_UPDATED: 2026-05-09T11:31:05.240Z -->
-
----|---|
-| ⭐ Total Stars Earned | 3.4k |
-| 💻 Total Commits (2026) | 20 |
-| 🔀 Total Pull Requests | 111 |
-| 🐛 Total Issues | 51 |
-| 📅 Total Contributions (Oct 2020 – Present) | 6,337 |
-| 🔥 Longest Streak | 241 days (Sep 5, 2022 – May 3, 2023) |
-
 ---
 
 ## 🏆 GitHub Trophies
