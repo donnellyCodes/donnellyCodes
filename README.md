@@ -87,26 +87,6 @@
 | 📅 Total Contributions (May 2, 2023 – Present) | 72 |
 | 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
 
-<!-- STATS_UPDATED: 2026-05-09T11:38:12.486Z -->
-
----|---|
-| ⭐ Total Stars Earned | 13 |
-| 💻 Total Commits (2026) | 1094 |
-| 🔀 Total Pull Requests | 2 |
-| 🐛 Total Issues | 1 |
-| 📅 Total Contributions (May 2, 2023 – Present) | 70 |
-| 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
-
-<!-- STATS_UPDATED: 2026-05-09T11:32:59.193Z -->
-
----|---|
-| ⭐ Total Stars Earned | 13 |
-| 💻 Total Commits (2026) | 1094 |
-| 🔀 Total Pull Requests | 2 |
-| 🐛 Total Issues | 1 |
-| 📅 Total Contributions (May 2, 2023 – Present) | 70 |
-| 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -121,14 +101,13 @@
 
 ## 🔝 Top Contributed Repositories
 
-<div align="center">
-[![alx-pre_course](https://github-readme-stats.vercel.app/api/pin/?username=donnellyCodes&repo=alx-pre_course&theme=radical&hide_border=true)](https://github.com/donnellyCodes/alx-pre_course)
-[![alx-system_engineering-devops](https://github-readme-stats.vercel.app/api/pin/?username=donnellyCodes&repo=alx-system_engineering-devops&theme=radical&hide_border=true)](https://github.com/donnellyCodes/alx-system_engineering-devops)
- 
-[![alx-higher_level_programming](https://github-readme-stats.vercel.app/api/pin/?username=donnellyCodes&repo=alx-higher_level_programming&theme=radical&hide_border=true)](https://github.com/donnellyCodes/alx-higher_level_programming)
-[![alx-low_level_programming](https://github-readme-stats.vercel.app/api/pin/?username=donnellyCodes&repo=alx-low_level_programming&theme=radical&hide_border=true)](https://github.com/donnellyCodes/alx-low_level_programming)
- 
-</div>
+| Repository | Language | Stars |
+|---|---|---|
+| [alx-pre_course](https://github.com/donnellyCodes/alx-pre_course) | ![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) | ⭐ 1 |
+| [alx-system_engineering-devops](https://github.com/donnellyCodes/alx-system_engineering-devops) | ![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) | ⭐ 1 |
+| [alx-higher_level_programming](https://github.com/donnellyCodes/alx-higher_level_programming) | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ⭐ 1 |
+| [alx-low_level_programming](https://github.com/donnellyCodes/alx-low_level_programming) | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) | ⭐ 1 |
+| [alx-zero_day](https://github.com/donnellyCodes/alx-zero_day) | ![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) | ⭐ 1 |
 
 ---
 
