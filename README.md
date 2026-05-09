@@ -81,6 +81,16 @@
 
 | Metric | Value |
 |---|---|
+| ⭐ Total Stars Earned | 13 |
+| 💻 Total Commits (2026) | 1094 |
+| 🔀 Total Pull Requests | 2 |
+| 🐛 Total Issues | 1 |
+| 📅 Total Contributions (May 2, 2023 – Present) | 69 |
+| 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
+
+<!-- STATS_UPDATED: 2026-05-09T11:31:05.240Z -->
+
+---|---|
 | ⭐ Total Stars Earned | 3.4k |
 | 💻 Total Commits (2026) | 20 |
 | 🔀 Total Pull Requests | 111 |
