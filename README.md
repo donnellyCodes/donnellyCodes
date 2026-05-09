@@ -68,11 +68,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-![Donnelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=donnellyCodes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+![Donnelly's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donnellyCodes&theme=radical)
  
 ![GitHub Streak](https://streak-stats.demolab.com?user=donnellyCodes&theme=radical&hide_border=true)
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donnellyCodes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donnellyCodes&theme=radical)
  
 </div>
 
