@@ -68,13 +68,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Donnelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=donnellyCodes&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=donnellyCodes&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donnellyCodes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![Donnelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=donnellyCodes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+ 
+![GitHub Streak](https://streak-stats.demolab.com?user=donnellyCodes&theme=radical&hide_border=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donnellyCodes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
+ 
 </div>
 
 ### 📈 Contribution Highlights
@@ -113,9 +112,12 @@
 ## 🔝 Top Contributed Repositories
 
 <div align="center">
-
-[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=donnellyCodes&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/donnellyCodes)
-
+[![alx-pre_course](https://github-readme-stats.vercel.app/api/pin/?username=donnellyCodes&repo=alx-pre_course&theme=radical&hide_border=true)](https://github.com/donnellyCodes/alx-pre_course)
+[![alx-system_engineering-devops](https://github-readme-stats.vercel.app/api/pin/?username=donnellyCodes&repo=alx-system_engineering-devops&theme=radical&hide_border=true)](https://github.com/donnellyCodes/alx-system_engineering-devops)
+ 
+[![alx-higher_level_programming](https://github-readme-stats.vercel.app/api/pin/?username=donnellyCodes&repo=alx-higher_level_programming&theme=radical&hide_border=true)](https://github.com/donnellyCodes/alx-higher_level_programming)
+[![alx-low_level_programming](https://github-readme-stats.vercel.app/api/pin/?username=donnellyCodes&repo=alx-low_level_programming&theme=radical&hide_border=true)](https://github.com/donnellyCodes/alx-low_level_programming)
+ 
 </div>
 
 ---
