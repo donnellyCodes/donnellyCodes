@@ -38,4 +38,14 @@ My interests are in Software Development<br><br>🔭 I’m currently working on 
 | 📅 Total Contributions (May 2, 2023 – Present) | 69 |
 | 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
 
+<!-- STATS_UPDATED: 2026-05-09T11:29:28.951Z -->
+
+---|---|
+| ⭐ Total Stars Earned | 13 |
+| 💻 Total Commits (2026) | 1094 |
+| 🔀 Total Pull Requests | 2 |
+| 🐛 Total Issues | 1 |
+| 📅 Total Contributions (May 2, 2023 – Present) | 69 |
+| 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
+
 <!-- STATS_UPDATED: 2026-05-09T11:29:10.590Z -->
