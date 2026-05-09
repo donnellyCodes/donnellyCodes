@@ -26,3 +26,16 @@ My interests are in Software Development<br><br>🔭 I’m currently working on 
 [![](https://visitcount.itsvg.in/api?id=donnellyCodes&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 📈 Contribution Highlights
+
+| Metric | Value |
+|---|---|
+| ⭐ Total Stars Earned | 13 |
+| 💻 Total Commits (2026) | 1094 |
+| 🔀 Total Pull Requests | 2 |
+| 🐛 Total Issues | 1 |
+| 📅 Total Contributions (May 2, 2023 – Present) | 69 |
+| 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
+
+<!-- STATS_UPDATED: 2026-05-09T11:29:10.590Z -->
