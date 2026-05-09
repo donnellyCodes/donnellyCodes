@@ -69,7 +69,7 @@
 
 <div align="center">
 
- ![Donnelly's GitHub Stats](https://github-readme-stats-git-master-donnellycodes-projects.vercel.app/api?username=donnellyCodes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
+![Donnelly's GitHub Stats](https://github-readme-stats-six-mu-nwkp35emtw.vercel.app/api?username=donnellyCodes&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
  
 ![GitHub Streak](https://streak-stats.demolab.com?user=donnellyCodes&theme=radical&hide_border=true)
  
@@ -86,36 +86,6 @@
 | 🔀 Total Pull Requests | 2 |
 | 🐛 Total Issues | 1 |
 | 📅 Total Contributions (May 2, 2023 – Present) | 78 |
-| 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
-
-<!-- STATS_UPDATED: 2026-05-09T11:55:59.088Z -->
-
----|---|
-| ⭐ Total Stars Earned | 13 |
-| 💻 Total Commits (2026) | 1094 |
-| 🔀 Total Pull Requests | 2 |
-| 🐛 Total Issues | 1 |
-| 📅 Total Contributions (May 2, 2023 – Present) | 76 |
-| 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
-
-<!-- STATS_UPDATED: 2026-05-09T11:46:38.658Z -->
-
----|---|
-| ⭐ Total Stars Earned | 13 |
-| 💻 Total Commits (2026) | 1094 |
-| 🔀 Total Pull Requests | 2 |
-| 🐛 Total Issues | 1 |
-| 📅 Total Contributions (May 2, 2023 – Present) | 75 |
-| 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
-
-<!-- STATS_UPDATED: 2026-05-09T11:44:51.218Z -->
-
----|---|
-| ⭐ Total Stars Earned | 13 |
-| 💻 Total Commits (2026) | 1094 |
-| 🔀 Total Pull Requests | 2 |
-| 🐛 Total Issues | 1 |
-| 📅 Total Contributions (May 2, 2023 – Present) | 74 |
 | 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
 
 ---
