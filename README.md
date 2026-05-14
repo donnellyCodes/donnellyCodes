@@ -85,6 +85,16 @@
 | 💻 Total Commits (2026) | 1103 |
 | 🔀 Total Pull Requests | 2 |
 | 🐛 Total Issues | 1 |
+| 📅 Total Contributions (May 2, 2023 – Present) | 96 |
+| 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
+
+<!-- STATS_UPDATED: 2026-05-14T03:34:08.331Z -->
+
+---|---|
+| ⭐ Total Stars Earned | 13 |
+| 💻 Total Commits (2026) | 1103 |
+| 🔀 Total Pull Requests | 2 |
+| 🐛 Total Issues | 1 |
 | 📅 Total Contributions (May 2, 2023 – Present) | 87 |
 | 🔥 Longest Streak | 4 days (Apr 27, 2026 – Apr 30, 2026) |
 
